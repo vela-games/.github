@@ -11,13 +11,13 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
 
-![Project-V Splash Art](https://vela.games/signup/vela-assets/community-splash-final-1920.webp)
+![Evercore Heroes Screenshot](https://www.datocms-assets.com/77662/1665155568-image-37.png?auto=format&dpr=0.5&w=3840)
 
-We are Vela Games, an independent game studio in Dublin, Ireland :ireland: , developing a new genre experience we’re calling multiplayer online co-operative [or MOCO short]! 
+We are Vela Games, an independent game studio in Dublin, Ireland :ireland:, at Vela we're developing Evercore Heroes, a brand new competitive PVE experience. 
 
-Our first game is code-named Project-V, and is currently in pre-production. The game takes inspiration from both MOBAs and MMOs, blending skilled teamplay with adventure and adaptation.  At its core, Project-V is a PVE co-op multiplayer game that can be played competitively.
+In Evercore Heroes Four teams of four heroes from a diverse and powerful roster will compete to be the first to take down an epic boss. Choose your team composition, master your Hero’s unique skills, & battle to victory! The game takes inspiration from both MOBAs and MMOs, blending skilled teamplay with adventure and adaptation.  At its core, Evercore Heroes is a PvE  game that can be played competitively.
 
-We haven't widely revealed the game yet, and still have a ways to go, but there are many ways for you to get involved! 
+We have recently revealed [the game](https://evercoreheroes.com), but there are many ways for you to get involved in it's further development! 
 
 [JOIN OUR DISCORD COMMUNITY](https://discord.gg/yxcgv3Y8yS) to discover sneak-peeks, updates and information, and fun Project-V events! 
 
@@ -25,3 +25,4 @@ We haven't widely revealed the game yet, and still have a ways to go, but there 
 
 [HELP US MAKE PROJECT-V!](https://vela.games/careers/) We’re always looking for awesome team members  to work at Vela to bring Project-V to life. 
 
+[EVERCORE HEROES](https://evercoreheroes.com)
