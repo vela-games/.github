@@ -19,10 +19,10 @@ In Evercore Heroes Four teams of four heroes from a diverse and powerful roster 
 
 We have recently revealed [the game](https://evercoreheroes.com), but there are many ways for you to get involved in it's further development! 
 
-[JOIN OUR DISCORD COMMUNITY](https://discord.gg/yxcgv3Y8yS) to discover sneak-peeks, updates and information, and fun Project-V events! 
+[JOIN OUR DISCORD COMMUNITY](https://discord.gg/yxcgv3Y8yS) to discover sneak-peeks, updates and information, and fun Evercore Heroes events! 
 
 [PLAYTESTERS WANTED!](https://vela.games) Sign-up online to be a a part of some early pre-alpha tests that will be happening next year!
 
-[HELP US MAKE PROJECT-V!](https://vela.games/careers/) We’re always looking for awesome team members  to work at Vela to bring Project-V to life. 
+[HELP US MAKE PROJECT-V!](https://vela.games/careers/) We’re always looking for awesome team members  to work at Vela to bring Evercore Heroes to life. 
 
 [EVERCORE HEROES](https://evercoreheroes.com)
